@@ -4,7 +4,7 @@
  function subirPDF(archivo){
     $archivo = archivo;
     if($archivo){
-        echo "Archivo subido correctamente a la platarma";
+        echo "Archivo subido correctamente a la Plataforma desde Visual Studio Code";
     }
  }
 ?>
