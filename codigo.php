@@ -4,7 +4,7 @@
  function subirPDF(archivo){
     $archivo = archivo;
     if($archivo){
-        echo "Archivo subido correctamente";
+        echo "Archivo subido correctamente a la platarma";
     }
  }
 ?>
